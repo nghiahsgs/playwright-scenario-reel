@@ -1,0 +1,7 @@
+node_modules/
+*.mp4
+*.webm
+*.png
+*.jpg
+reel-report.json
+.DS_Store
